@@ -1,5 +1,5 @@
 <header style="overflow: auto">
-<img align="left" src="docs/assets/logo.svg" height="60em" width="60em" style="float: left">
+<img align="left" src="docs/assets/logo.svg" height="80em" width="80em" style="float: left">
 
 # telegraf.js
 
