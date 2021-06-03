@@ -1,5 +1,5 @@
 <header style="overflow: auto">
-<img src="docs/assets/logo.svg" height="30em" width="30em" style="float: left">
+<img src="docs/assets/logo.svg" height="60em" width="60em" style="float: left">
 <h1 style="display: inline">telegraf.js</h1>
 
 Modern Telegram Bot API framework for Node.js
